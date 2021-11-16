@@ -56,3 +56,5 @@ Credits to [ShailChoksi's lichess-bot](https://github.com/ShailChoksi/lichess-bo
 
 ## License
 This code is primarily taken from [lichess-bot by ShailChoksi](https://github.com/ShailChoksi/lichess-bot) and is hence run under the AGPLv3 License (or later at your option). Check out the [LICENSE file](/LICENSE) for full text.
+
+******
